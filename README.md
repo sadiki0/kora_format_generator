@@ -5,7 +5,7 @@ Krayon Open Render API
 
 Honestly most of them are useless, but who really cares. They still got options.
 
-This poorll
+This poorly written code simply spits out a rust enum (that can be used in a rust project's source code)
 
 ## Building
 Use Gradle to build like this:
